@@ -34,5 +34,6 @@ Based on the historical data, the estimated trend indicates an annual decrease o
 ** all windfarm and turbine stats and information was found from below references: 
 
 Reference :Teagasc https://teagasc.ie/rural-economy/rural-development/diversification/wind-energy/ accessed 11 of January 2026.
+
 Reference: pbs north Carolina, https://www.pbsnc.org/blogs/science/how-much-wind-does-a-wind-turbine-need/ accessed 11th of January 2026.
 
